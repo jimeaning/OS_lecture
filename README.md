@@ -8,3 +8,4 @@
 차시 | 강의 주제 | 링크 |
 --- | --- | --- |
 1 | 운영체제란 | [📎  1강 정리](https://github.com/jimeaning/OS_lecture/blob/main/1/IntroductiontoOperatingSystems.md)
+2 | 컴퓨터 시스템 구조 | [📎 2강 정리](https://github.com/jimeaning/OS_lecture/blob/main/2/SystemStructure%26ProgramExecution1.md)
