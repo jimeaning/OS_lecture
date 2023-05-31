@@ -94,3 +94,6 @@ Stack : 함수를 호출하거나 실행할 때 스택이 필요. 사용자 프�
 
 <br>
 
+### 🤖 프로그램의 실행
+
+![](https://velog.velcdn.com/images/jimeaning/post/c1fcc964-a9b1-4ded-9e2e-3b183fae40b0/image.png)
