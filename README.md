@@ -10,3 +10,4 @@
 1 | 운영체제란 | [📎  1강 정리](https://github.com/jimeaning/OS_lecture/blob/main/1/IntroductiontoOperatingSystems.md)
 2 | 컴퓨터 시스템 구조 | [📎 2강 정리](https://github.com/jimeaning/OS_lecture/blob/main/2/SystemStructure%26ProgramExecution1.md)
 2 | 프로그램의 실행 | [📎 2강 정리](https://github.com/jimeaning/OS_lecture/blob/main/2/SystemStructure%26ProgramExecution2.md)
+3 | 프로세스와 문맥 교환 | [📎 3강 정리](https://github.com/jimeaning/OS_lecture/blob/main/3/Process1.md)

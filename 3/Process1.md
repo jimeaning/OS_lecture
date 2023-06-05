@@ -1,7 +1,7 @@
 # Process 1
 
 ### 🤖 프로세스의 개념
-![](https://velog.velcdn.com/images/jimeaning/post/01d5449f-539d-416e-afd7-dcb80d7e0917/image.png)
+<img src="https://velog.velcdn.com/images/jimeaning/post/01d5449f-539d-416e-afd7-dcb80d7e0917/image.png" width=250>
 
 "Process is **a program in execution**"  
 
@@ -90,7 +90,7 @@
   4. 파일 관련
    - Open file descriptors
 
-![](https://velog.velcdn.com/images/jimeaning/post/ed2715af-0a8a-40e8-87f6-0ac9a55f1858/image.png)
+<img src="https://velog.velcdn.com/images/jimeaning/post/ed2715af-0a8a-40e8-87f6-0ac9a55f1858/image.png" width=250>
 
 
 <br>
@@ -175,17 +175,3 @@ CPU를 얻고 할당 시간이 끝나면 ready queue에 줄 섬.
   - 여유 공간 마련을 위해 프로세스를 통째로 메모리에서 디스크로 쫓아냄
   - 프로세스에게서 memory를 뺏는 문제
   - degree of Multiprogramming을 제어
-
-<br>
-
-### 🤖
-
-
-<br>
-
-### 🤖
-
-
-<br>
-
-### 🤖
